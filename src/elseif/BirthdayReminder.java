@@ -11,7 +11,7 @@ public class BirthdayReminder {
 	public static void main(String[] args) {
 	
 		// 1. correct the birthdays for your family below
-		String momsBirthday = "May 25";
+		String momsBirthday = "May 16";
 		String dadsBirthday = "December 16";
 		String myBirthday = "October 23";
 
